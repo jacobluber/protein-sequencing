@@ -1,0 +1,14 @@
+models
+_slurm_output
+__pycache__
+.ipynb_checkpoints
+Alphafold-result
+inference-results
+LDDT_outputs
+pdbs
+*-albert.py
+*-Albert.py
+components.cif
+helper.ipynb
+out.json
+TMscore*
